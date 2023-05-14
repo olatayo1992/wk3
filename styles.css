@@ -1,0 +1,103 @@
+h1{
+    color: yellow;
+}
+.one{
+    color: red;
+}
+p:first-of-type{
+    font-size: 50px;
+    font-size: 1.5rem;
+}
+p:last-of-type{
+    background-color: black;
+}
+p:nth-last-of-type(3n+1){
+    font-size: 50px;
+}lorem{
+    color: aqua;
+}
+body > li{
+    color: slateblue;
+}
+
+
+
+ /* h1{
+color: red;
+border: 80%; */
+
+/* section > p{
+    color: blueviolet;
+/* }  */
+/* 
+/* section + article{
+    color: yellow;
+}  */ 
+ /* section > p{
+    
+} 
+.one{
+    font-size: 20px
+    
+     ;
+}
+.one{
+    color: yellow;
+}
+p.one good{
+    color:black; */
+/* }
+.one{
+    color: red;
+}
+p{
+    color: aqua;
+} */
+/* p{ */
+    /* color: rgb(200, 100, 211); */ 
+/* html{ */
+    /* font-size: 20px; */ 
+/* }
+body{
+
+}
+p{
+    color: red;
+    font-size: 2rem;
+}
+p{
+    color: blue;
+}
+p:last-of-type{
+    font-size:2em ;
+}
+p:last-of-type{
+    color: aqua;
+}
+p:nth-of-type(2){
+    color: rgb(0, 119, 255); */
+
+/*    
+ p{
+    color: aquamarine;
+    font-size: 30px;
+}
+p+p{
+    background-color:rgb(255, 23, 23);
+    color: black;
+}
+body p{
+    color: aqua;
+} */ */
+ */
+
+ /* secton > p {
+color: red;
+ } */ */
+ 
+/* p.one{
+    color: aquamarine;
+} */
+/* body > p{
+    color: yellow;
+} */
